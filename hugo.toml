@@ -18,7 +18,8 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
-I am Kamlesh Digarse.
+Welcome to my blog! I’m Kamlesh Digarse, a seasoned Software Engineering Manager with a deep passion for technology and management. With extensive experience in the software industry, I’ve led numerous successful projects and guided talented teams to deliver innovative solutions.
+Join me on this journey as we explore the fascinating world of technology together. Let’s innovate, learn, and grow!
 """
 
 # Collection to display on home
