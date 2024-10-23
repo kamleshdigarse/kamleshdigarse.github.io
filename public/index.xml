@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Kamlesh Digarse</title>
-    <link>https://kamleshd.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on Kamlesh Digarse</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Oct 2024 12:30:05 +0530</lastBuildDate>
-    <atom:link href="https://kamleshd.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://kamleshd.com/posts/my-first-post/</link>
+      <title>PostgreSQL: A Game Changer for India</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Tue, 22 Oct 2024 12:30:05 +0530</pubDate>
-      <guid>https://kamleshd.com/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Getting started soon!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;In the rapidly evolving landscape of technology, PostgreSQL has emerged as a powerful tool, transforming the way businesses and developers in India approach data management. This open-source relational database management system (RDBMS) offers a plethora of features that make it a preferred choice for many. Let&amp;rsquo;s explore how PostgreSQL is revolutionizing the tech scene in India.&lt;/p&gt;&#xA;&lt;h4 id=&#34;1-cost-effectiveness&#34;&gt;1. Cost-Effectiveness&lt;/h4&gt;&#xA;&lt;p&gt;One of the most significant advantages of PostgreSQL is its cost-effectiveness. Being open-source, it eliminates the need for expensive licensing fees associated with proprietary databases. This is particularly beneficial for startups and small to medium-sized enterprises (SMEs) in India, where budget constraints are often a major concern. By adopting PostgreSQL, businesses can allocate their resources more efficiently, investing in innovation and growth rather than hefty software costs.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
