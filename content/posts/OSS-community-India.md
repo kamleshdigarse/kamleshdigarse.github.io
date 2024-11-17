@@ -32,12 +32,12 @@ The significance of the OSS community in India extends beyond technological deve
 
 Here are some source for more details:
 
-The Open-Source Mission for India](https://www.drishtiias.com/daily-updates/daily-news-editorials/the-open-source-mission-for-india)
+(1) [The Open-Source Mission for India](https://www.drishtiias.com/daily-updates/daily-news-editorials/the-open-source-mission-for-india)
 
-The power of Open Source technology and how India can benefit from it](https://tech.hindustantimes.com/tech/news/the-power-of-open-source-technology-and-how-india-can-benefit-from-it-71633005318343.html)
+(2) [The power of Open Source technology and how India can benefit from it](https://tech.hindustantimes.com/tech/news/the-power-of-open-source-technology-and-how-india-can-benefit-from-it-71633005318343.html)
 
-Open Source: A Pillar for Future Technologies in India](https://www.linuxfoundation.org/blog/open-source-a-pillar-for-future-technologies-in-india)
+(3) [Open Source: A Pillar for Future Technologies in India](https://www.linuxfoundation.org/blog/open-source-a-pillar-for-future-technologies-in-india)
 
-The Power of Open-Source Technology How India can Benefit](https://www.sourcefuse.com/resources/blog/the-power-of-open-source-technology-how-india-can-benefit/)
+(4) [The Power of Open-Source Technology How India can Benefit](https://www.sourcefuse.com/resources/blog/the-power-of-open-source-technology-how-india-can-benefit/)
 
 

@@ -20,12 +20,12 @@ PostgreSQL's combination of cost-effectiveness, robust performance, advanced fea
 
 Here are some more source:
 
-(1) PGVectorScale: PostgreSQL’s AI Database Game-Changer - Adaca. https://www.adaca.com/news/postgresqls-pgvectorscale-the-game-changer-in-ai-database-technology/.
+(1) [PGVectorScale: PostgreSQL’s AI Database Game-Changer - Adaca. ](https://www.adaca.com/news/postgresqls-pgvectorscale-the-game-changer-in-ai-database-technology/.)
 
-(2) The PostgreSQL Community in India gathered for PGConf- here's what happened. https://www.postgresql.fastware.com/blog/kathryn-bourne-discusses-pgconf-india-2023.
+(2) [The PostgreSQL Community in India gathered for PGConf- here's what happened. ](https://www.postgresql.fastware.com/blog/kathryn-bourne-discusses-pgconf-india-2023.)
 
-(3) Distributed PostgreSQL is a game changer - Speaker Deck. https://speakerdeck.com/citusdata/distributed-postgresql-is-a-game-changer-pgconf-india-2020-parikshit-savjani.
+(3) [Distributed PostgreSQL is a game changer - Speaker Deck. ](https://speakerdeck.com/citusdata/distributed-postgresql-is-a-game-changer-pgconf-india-2020-parikshit-savjani.)
 
-(4) From the MMO trenches: Using PostgreSQL for the game database.. https://jahej.com/alt/2011_08_08_from-the-mmo-trenches-using-postgresql-for-the-game-database.html.
+(4) [From the MMO trenches: Using PostgreSQL for the game database.. ](https://jahej.com/alt/2011_08_08_from-the-mmo-trenches-using-postgresql-for-the-game-database.html.)
 
-(5) Postgres Weekly Issue 568: September 4, 2024. https://postgresweekly.com/issues/568.******
+(5) [Postgres Weekly Issue 568: September 4, 2024.](https://postgresweekly.com/issues/568.******)
