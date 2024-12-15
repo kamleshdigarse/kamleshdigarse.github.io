@@ -14,6 +14,7 @@ Due to its high access frequency, hot data is typically stored on high-performan
 
 ### What is Cold Data?
 Cold data, on the other hand, is information that is accessed infrequently and does not require immediate retrieval. This data is often archived for long-term storage and is used for historical analysis, compliance, or backup purposes. Examples of cold data include:
+
 **Archived emails**: Old emails that are kept for record-keeping but rarely accessed.
 **Historical transaction records**: Past transaction data stored for auditing or compliance.
 **Backup files**: Data backups that are only accessed in case of data recovery needs.
@@ -21,15 +22,22 @@ Cold data is usually stored on cost-effective storage solutions such as hard dis
 
 ### Key Differences Between Hot and Cold Data
 **Access Frequency**:
+
 **Hot Data**: Accessed frequently and requires quick retrieval.
 **Cold Data**: Accessed infrequently and does not require immediate retrieval.
+
 **Storage Solutions**:
+
 **Hot Data**: Stored on high-performance storage systems like SSDs or in-memory databases.
 **Cold Data**: Stored on cost-effective solutions like HDDs or cloud archival storage.
+
 **Cost**:
+
 **Hot Data**: More expensive to store due to the need for high-performance storage.
 **Cold Data**: Less expensive to store as it uses cost-effective storage solutions.
+
 **Use Cases**:
+
 **Hot Data**: Real-time analytics, transactional data, user activity logs.
 **Cold Data**: Historical records, archived emails, backup files.
 
