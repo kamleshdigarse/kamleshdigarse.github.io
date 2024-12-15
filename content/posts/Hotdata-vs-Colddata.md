@@ -1,6 +1,6 @@
 +++
-date = '2024-11-09T12:30:05+05:30'
-title = 'Open Source Software Community in India'
+date = '2024-12-15T12:30:05+05:30'
+title = 'Hot Data vs. Cold Data'
 +++
 
 Understanding the Differences and Their Importance:
