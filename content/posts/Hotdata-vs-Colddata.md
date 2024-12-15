@@ -7,9 +7,9 @@ In today's data-driven world, understanding the distinction between hot data and
 
 ### What is Hot Data?
 Hot data refers to information that is frequently accessed and requires quick retrieval. This type of data is critical for real-time operations and decision-making processes. Examples of hot data include:
-#### Transactional data:
- Information from online transactions that need immediate processing.
-#### Real-time analytics**:
+#### Transactional data: 
+Information from online transactions that need immediate processing.
+#### Real-time analytics:
  Data used for live dashboards and monitoring systems.
 #### User activity logs:
  Data from user interactions on websites or applications that need to be analyzed promptly.
@@ -30,7 +30,7 @@ Cold data is usually stored on cost-effective storage solutions such as hard dis
 ### Key Differences Between Hot and Cold Data
 #### Access Frequency:
 
-##### Hot Data**:
+##### Hot Data:
  Accessed frequently and requires quick retrieval.
 ##### Cold Data:
  Accessed infrequently and does not require immediate retrieval.
@@ -51,7 +51,7 @@ Less expensive to store as it uses cost-effective storage solutions.
 
 #### Use Cases:
 
-##### Hot Data**: 
+##### Hot Data: 
 Real-time analytics, transactional data, user activity logs.
 ##### Cold Data: 
 Historical records, archived emails, backup files.
