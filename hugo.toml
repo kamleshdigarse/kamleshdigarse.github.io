@@ -44,6 +44,10 @@ url = "https://www.linkedin.com/in/kamlesh-digarse-4719b92/"
 name = "github"
 url = "https://github.com/kamleshdigarse"
 
+[params.social]]
+name = "youtube"
+url = "https://www.youtube.com/channel/UC1FAnrxCsGfmJ3_S8aThnvA"
+
 # Main menu pages
 [[params.menu]]
 name = "home"
